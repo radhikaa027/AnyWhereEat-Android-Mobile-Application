@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194229397499",
+    "project_id": "anywhereeatadmin",
+    "storage_bucket": "anywhereeatadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194229397499:android:7126f024fb0b6c827a0d5e",
+        "android_client_info": {
+          "package_name": "com.example.anywhereeatadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1OlMPBMgv9iOsRvV6WjAXcY9UvTi-0mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

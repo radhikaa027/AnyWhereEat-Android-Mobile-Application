@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnywhereEatAdmin</string>
+    <string name="anywhereeat">AnyWhereEat</string>
+    <string name="enter_food_name">Enter Food Name</string>
+    <string name="enter_food_price">Enter Food Price</string>
+    <string name="dummy">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual</string>
+</resources>
