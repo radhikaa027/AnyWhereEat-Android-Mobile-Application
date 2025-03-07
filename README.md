@@ -6,9 +6,9 @@
 3. [Technology Stack](#technology-stack)
 4. [Installation and Setup](#installation-and-setup)
 5. [Application Structure](#application-structure)
-6. [Screenshots](#screenshots)
+6. [Working Flowchart](#working-flowchart)
 7. [Future Enhancements](#future-enhancements)
-9. [License](#license)
+8. [License](#license)
 
 ---
 
@@ -71,8 +71,6 @@ The application is divided into two primary interfaces:
 
 - **Admin**
   ![image](https://github.com/user-attachments/assets/da8f66e0-6b03-438a-9aa5-a08ef5954548)
-
-
 
 ## Future Enhancements
 - Implement payment gateway integration
